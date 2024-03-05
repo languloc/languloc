@@ -2,7 +2,7 @@
 <h3 align="center">Graduated in Mechanical Engineering, I continue my training with the Master in Big Data & Business Analytics. My fascination ranges from coding to visualisation, innovation and experimentation. I am an enthusiastic and social person who enjoys taking on new challenges and acquiring additional skills. I love contact with new people, exchanging ideas and contributing to the spread of knowledge and positivity in any environment.</h3>
 
 
-- 🔭 I'm currently **looking for a job** and working on **personal projects**
+- 🔭 I'm currently **working on Data Engineer / Big Data Developer** and working on **personal projects**
 
 - 🌱 I’m currently studying a **Master in Big Data & Business Analytics.**
 
